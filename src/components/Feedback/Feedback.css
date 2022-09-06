@@ -1,0 +1,22 @@
+.buttonWrapper {
+    display: flex;
+    gap: 20px;
+}
+
+.button {
+    font-size: 15px;
+    font-weight: 700;
+}
+.button:hover {
+    cursor: pointer;
+}
+
+.good {
+    background-color: green;
+}
+.neutral {
+    background-color: aqua;
+}
+.bad {
+    background-color: red;
+}
