@@ -5,6 +5,8 @@ import FeedbackOptions from "components/FeedBackOptions/FeedBackOptions";
 import Section from "components/Section/Section";
 import Notification from "components/Notification/Notification";
 
+
+
 class Feedback extends Component {
     state = {
         good: this.props.initialValue,
